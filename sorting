@@ -1,0 +1,8 @@
+You have to input n number of elements in an array and sort is:
+eg: 
+INPUT:
+    5
+    5 4 3 2 1 
+OUTPUT:
+    1 2 3 4 5
+    
